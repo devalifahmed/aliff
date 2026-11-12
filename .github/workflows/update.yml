@@ -1,0 +1,5 @@
+      - name: Update IPTV channels
+        env:
+          API_URL: ${{ vars.API_URL }}
+          API_USER_AGENT: ${{ vars.API_USER_AGENT }}
+        run: python scripts/update.py
