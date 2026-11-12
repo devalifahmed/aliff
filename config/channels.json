@@ -1,0 +1,26 @@
+{
+  "channels": [
+    {"id": "sony-hd", "name": "SONY HD"},
+    {"id": "sab-hd", "name": "SAB HD"},
+    {"id": "sony-marathi", "name": "SONY MARATHI"},
+    {"id": "sony-pal", "name": "SONY PAL"},
+    {"id": "sony-aath", "name": "SONY AATH"},
+    {"id": "sony-yay", "name": "SONY YAY"},
+    {"id": "sony-max-hd", "name": "SONY MAX HD"},
+    {"id": "sony-max", "name": "SONY MAX"},
+    {"id": "sony-wah", "name": "SONY WAH"},
+    {"id": "sony-max2", "name": "SONY MAX2"},
+    {"id": "sony-pix-hd", "name": "SONY PIX HD"},
+    {"id": "sony-ten1-hd", "name": "SONY TEN 1 HD"},
+    {"id": "sony-ten1", "name": "SONY TEN 1"},
+    {"id": "sony-ten2-hd", "name": "SONY TEN 2 HD"},
+    {"id": "sony-ten2", "name": "SONY TEN 2"},
+    {"id": "sony-ten3-hd", "name": "SONY TEN 3 HD"},
+    {"id": "sony-ten3", "name": "SONY TEN 3"},
+    {"id": "sony-ten4-hd", "name": "SONY TEN 4 HD"},
+    {"id": "sony-ten4", "name": "SONY TEN 4"},
+    {"id": "sony-ten5-hd", "name": "SONY TEN 5 HD"},
+    {"id": "sony-ten5", "name": "SONY TEN 5"},
+    {"id": "bbc-earth", "name": "BBC EARTH"}
+  ]
+}
